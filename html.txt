@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en" dir="rtl">
+  <head>
+    <meta charset="utf-8">
+    <title>موقع تجريبي</title>
+    <!-- Font Awesome Library Css -->
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <!-- My Custom Css Code -->
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <!-- Start Navbar Section -->
+    <section class="navbar-sec">
+      <div class="container">
+        <div class="logo">
+          <span>test</span> Website
+        </div>
+        <nav>
+          <ul>
+            <li  class="active"> <a href="#">الرئيسية</a> </li>
+            <li> <a href="#">نشاطاتنا</a> </li>
+            <li> <a href="#">أولياء الأمور</a> </li>
+            <li> <a href="#">الأخبار</a> </li>
+            <li> <a href="#">من نحن</a> </li>
+            <li> <a href="#">اتصل بنا</a> </li>
+          </ul>
+        </nav>
+        <div class="clear"></div>
+      </div>
+    </section>
+    <!-- End Navbar Section -->
+    <!-- Start Welcome Section -->
+    <section class="welcome-sec" style="background: url(images/welcom-bg.png) no-repeat fixed;">
+      <div class="overlay">
+        <div class="container">
+          <div class="content">
+            <h1>test</h1>
+             <p>
+               هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص.
+             </p>
+             <a href="#" class="btn-website">تعرف أكثر</a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Welcome Section -->
+    <!-- Start Services Section -->
+    <section class="services-sec">
+      <div class="container">
+        <div class="boxes">
+          <!-- Start Box -->
+          <div class="box">
+            <img src="images/services/1.png" alt="">
+            <h3>أكفأ المدرسين</h3>
+            <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص.</p>
+          </div>
+          <!-- End Box -->
+          <!-- Start Box -->
+          <div class="box">
+            <img src="images/services/2.png" alt="">
+            <h3>الكتب والمكتبات</h3>
+            <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص.</p>
+          </div>
+          <!-- End Box -->
+          <!-- Start Box -->
+          <div class="box">
+            <img src="images/services/3.png" alt="">
+            <h3>الدروس المباشرة</h3>
+            <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص.</p>
+          </div>
+          <!-- End Box -->
+          <!-- Start Box -->
+          <div class="box">
+            <img src="images/services/4.png" alt="">
+            <h3>الشهادات</h3>
+            <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص.</p>
+          </div>
+          <!-- End Box -->
+        </div>
+      </div>
+    </section>
+    <!-- End Services Section -->
+    <!-- Start Last News Section -->
+    <section class="lastNews-sec">
+      <div class="container">
+        <div class="title-sec">
+          <h3>آخر الأخبار</h3>
+          <p>تابع أخبارنا</p>
+        </div>
+        <!-- Start Content Last News -->
+        <div class="boxes">
+          <!-- Start Box -->
+          <div class="box">
+            <span class='custom-span'>آخر الأخبار</span>
+            <img src="images/news/1.png" alt="">
+            <div class="content">
+              <h4> <i class="fa fa-clock-o"></i> 15 يناير </h4>
+              <h2>المدارس تقوم بحملة تثقيفية</h2>
+              <p>
+                هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص
+              </p>
+              <a href="#" class="btn-website">تعرف أكثر</a>
+            </div>
+          </div>
+          <!-- End Box -->
+          <!-- Start Box -->
+          <div class="box">
+            <span class='custom-span'>آخر الأخبار</span>
+            <img src="images/news/2.png" alt="">
+            <div class="content">
+              <h4> <i class="fa fa-clock-o"></i> 15 يناير </h4>
+              <h2>المدارس تقوم بحملة تثقيفية</h2>
+              <p>
+                هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص
+              </p>
+              <a href="#" class="btn-website">تعرف أكثر</a>
+            </div>
+          </div>
+          <!-- End Box -->
+          <!-- Start Box -->
+          <div class="box">
+            <span class='custom-span'>آخر الأخبار</span>
+            <img src="images/news/3.png" alt="">
+            <div class="content">
+              <h4> <i class="fa fa-clock-o"></i> 15 يناير </h4>
+              <h2>المدارس تقوم بحملة تثقيفية</h2>
+              <p>
+                هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص
+              </p>
+              <a href="#" class="btn-website">تعرف أكثر</a>
+            </div>
+          </div>
+          <!-- End Box -->
+        </div>
+        <!-- End Content Last News -->
+      </div>
+    </section>
+    <!-- End Last News Section -->
+    <!-- Start  Goals Section -->
+    <section class="goals-sec" style="background: url(images/goals/goals-bg.png) no-repeat center center">
+      <div class="overlay">
+        <div class="container">
+          <div class="title-sec">
+            <h3>أهداف المجموعه</h3>
+            <p>الإحصائيات</p>
+          </div>
+          <!-- Start Content -->
+          <div class="boxes">
+            <!-- Start Box -->
+            <div class="box">
+              <img src="images/goals/1.png" alt="">
+              <div class="title">
+                <h4>100%</h4>
+                <p>رضا أولياء الأمور</p>
+              </div>
+            </div>
+            <!-- End Box -->
+            <!-- Start Box -->
+            <div class="box">
+              <img src="images/goals/2.png" alt="">
+              <div class="title">
+                <h4>100%</h4>
+                <p>رضا أولياء الأمور</p>
+              </div>
+            </div>
+            <!-- End Box -->
+            <!-- Start Box -->
+            <div class="box">
+              <img src="images/goals/3.png" alt="">
+              <div class="title">
+                <h4>100%</h4>
+                <p>رضا أولياء الأمور</p>
+              </div>
+            </div>
+            <!-- End Box -->
+            <!-- Start Box -->
+            <div class="box">
+              <img src="images/goals/4.png" alt="">
+              <div class="title">
+                <h4>100%</h4>
+                <p>رضا أولياء الأمور</p>
+              </div>
+            </div>
+            <!-- End Box -->
+          </div>
+          <!-- End Content -->
+        </div>
+      </div>
+    </section>
+    <!-- End  Goals Section -->
+  </body>
+</html>
